@@ -1,0 +1,16 @@
+# Git Hub Steps
+
+// this command will create local copy of the repository on your machine
+git clone [repository_url]
+
+// checks if there is any changes made in the repository
+git status
+
+// add all the changes in a stage package
+git add .
+
+// gives a name to everything staged so far and prepare it to be send to the remote repo
+git commit -am "[custom_message_describing_the_changes]"
+
+// will push all the commits done so far
+git push
