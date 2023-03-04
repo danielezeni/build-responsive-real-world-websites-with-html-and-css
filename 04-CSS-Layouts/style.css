@@ -275,9 +275,10 @@ nav {
 }
 
 article {
-  width: 825px;
+  width: 800px;
   float: left;
 }
+
 aside {
   width: 300px;
   float: right;
