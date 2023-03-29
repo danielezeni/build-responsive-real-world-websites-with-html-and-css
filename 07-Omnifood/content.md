@@ -131,10 +131,11 @@ Privacy & terms
 
 ## Sections
 
-- Logo + Navigation
-- Hero
-- Featured in
-- How it works
+[OK] Logo + Navigation
+[OK] Hero
+[OK]Featured in
+[OK] How it works
+
 - Meals + list of diets
 - Testimonials + gallery
 - Pricing + features
