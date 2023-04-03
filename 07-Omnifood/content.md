@@ -135,8 +135,8 @@ Privacy & terms
 [OK] Hero
 [OK]Featured in
 [OK] How it works
+[OK] Meals + list of diets
 
-- Meals + list of diets
 - Testimonials + gallery
 - Pricing + features
 - CTA
